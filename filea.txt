@@ -6,3 +6,6 @@ sad
 me\\sdf4
 new lines
 modified
+new lines added to
+check
+diff in git
