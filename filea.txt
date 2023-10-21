@@ -7,10 +7,13 @@ me\\sdf4
 new lines
 modified
 
-check
+uncheck
 diff in git
 
-new line4
+ryzen5
 new lines added to
-replaced
+hi
+hpofc
 again
+noreplaced
+hola
