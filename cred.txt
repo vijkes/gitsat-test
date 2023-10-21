@@ -1,3 +1,0 @@
-usr='dsfasd'
-pwd='asdfa'
-fad
